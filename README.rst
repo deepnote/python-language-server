@@ -1,6 +1,9 @@
 Python Language Server
 ======================
 
+Deprecated in favor of `our fork of python-lsp-server <https://github.com/deepnote/python-lsp-server>`_ . Use it instead.
+
+
 .. image:: https://github.com/palantir/python-language-server/workflows/Linux%20tests/badge.svg
     :target: https://github.com/palantir/python-language-server/actions?query=workflow%3A%22Linux+tests%22
 
